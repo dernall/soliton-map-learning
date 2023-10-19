@@ -24,7 +24,7 @@ Dataset consists of 5 different classes of solitons:
 | cons many | Conservative soliton in many pulse regime (anomaly dispersion)|
 | dis stable | Dissipative soliton in one pulse regime (normal dispersion)|
 | man pos | Maganed soliton in one pulse regime with positive dispersion coefficient (anomaly dispersion)|
-| man neg | Managed soliton in one pusel regime with negative dispersion coefficient (normal dispersion)|
+| man neg | Managed soliton in one pulse regime with negative dispersion coefficient (normal dispersion)|
 
 Soltiton dataset can be downloaded from [here](https://drive.google.com/file/d/1GrlBHjRC3r5iQPawyF0XkwF96ypBRFo-/view?usp=sharing).
 
