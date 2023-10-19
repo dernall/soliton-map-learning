@@ -1,0 +1,8 @@
+__pycache__/
+
+.env
+.venv
+env/
+venv/
+
+df_soliton.csv
